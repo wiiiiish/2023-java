@@ -8,7 +8,7 @@ public class Q11 {
 	
 	public int solution (int n, int m, int[][] arr) {
 		
-		int ans = 0;
+		int ans = 0; // 결과
 		
 		
 		return ans;
