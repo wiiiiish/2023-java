@@ -8,7 +8,7 @@ public class Q11 {
 		
 		int ans = 0; // 결과
 		int max = 0; // 같은 반 최댓값
-		int cnt = 0;
+		int cnt = 0; // count
 		
 		for (int i=1; i<=n; i++) {
 			cnt = 0;
